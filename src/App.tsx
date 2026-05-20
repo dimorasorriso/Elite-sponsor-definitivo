@@ -220,7 +220,7 @@ const Story = () => {
             whileInView="visible"
             viewport={{ once: true }}
             variants={staggerContainer}
-            className="sticky top-24"
+            className="lg:sticky lg:top-24"
           >
             <motion.h2 variants={fadeIn} className="text-3xl md:text-5xl font-heading font-bold mb-6 uppercase">
               Una storia costruita con <span className="text-red">disciplina, visione e credibilità</span>
