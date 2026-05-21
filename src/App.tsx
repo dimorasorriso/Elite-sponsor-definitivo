@@ -227,10 +227,10 @@ const Story = () => {
             </motion.h2>
             <motion.div variants={fadeIn} className="space-y-6 text-gray-300 text-lg">
               <p>
-                Il progetto ELITE BOXING nasce dall'unione di tre realtà sportive consolidate nel panorama italiano degli sport da combattimento.
+                Il progetto ELITE BOXING nasce dall'unione di due realtà sportive situate una a Bari in Puglia e l'altra a Cagliari in Sardegna.
               </p>
               <p>
-                Tre ASD, tre territori, tre tecnici federali di alto livello con percorsi differenti ma uniti dalla stessa visione: costruire una piattaforma eventi capace di valorizzare atleti, sponsor e territorio in un ecosistema credibile, strutturato e professionale.
+                Due società, due territori, tecnici federali di alto livello con percorsi differenti ma uniti dalla stessa visione: costruire una piattaforma eventi capace di valorizzare atleti, sponsor e territorio in un ecosistema credibile, strutturato e professionale.
               </p>
               <p>
                 Elite Boxing non rappresenta un singolo team, ma l'evoluzione naturale di storie costruite negli anni sul ring, in palestra e nell'organizzazione sportiva.
